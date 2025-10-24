@@ -1,4 +1,4 @@
-# chat-app
+
 # Chat Application UI
 
 A *front-end only chat application UI* built with *HTML, CSS, JavaScript, and Tailwind CSS*.  
@@ -43,7 +43,7 @@ It includes dynamic features like adding contacts, persistent messages, dark/lig
 ## 🌐 Live Demo
 
 > ChatApp UI Link
-> https://68fa620eca61e9060a6a7519--lighthearted-vacherin-0e473f.netlify.app/
+> https://68fb196222be8a6ed2fcf9e9--dashing-bavarois-cd87aa.netlify.app
 
 ---
 
