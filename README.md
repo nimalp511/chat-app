@@ -42,8 +42,8 @@ It includes dynamic features like adding contacts, persistent messages, dark/lig
 
 ## 🌐 Live Demo
 
-> Add your Netlify link here after deployment:  
-> Example: [https://your-chat-app.netlify.app](https://your-chat-app.netlify.app)
+> ChatApp UI Link
+> https://68fa620eca61e9060a6a7519--lighthearted-vacherin-0e473f.netlify.app/
 
 ---
 
